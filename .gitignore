@@ -1,0 +1,5 @@
+/myvenv
+/app/__pycache__
+/app/migrations
+/app/utils/__pycache__
+/AUTO_SQL/__pycache__
