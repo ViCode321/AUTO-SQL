@@ -1,8 +1,8 @@
 # Guía de Inicio Rápido para AUTO-SQL
 
-Este repositorio contiene el código fuente para el proyecto AUTO-SQL, una aplicación web desarrollada en Django para la generación de queries en sql por medio de un archivo excel.
+Aplicación web desarrollada en Django para la generación de queries en sql por medio de un archivo excel.
 
-Hasta el momento puedo crear grandes cantidades de código "INSERT" y "DELETE" en SQL, solo se debe proporcionar un archivo excel de los registros a insertar, o un archivo excel con los registros a eliminar y proporcionar la columna que contiene los Ids para crear las queries "DELETE".
+Hasta el momento puedo crear grandes cantidades de código SQL, "INSERT" y "DELETE", solo se debe proporcionar un archivo excel de los registros a insertar, o un archivo excel con los registros a eliminar y proporcionar la columna que contiene los Ids para crear las queries "DELETE".
 
 ## Configuración Inicial
 Para comenzar, sigue estos pasos:
